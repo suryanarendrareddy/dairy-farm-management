@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend service for the Dairy Farm Management System that handles farmer data storage, authentication, and farm record management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanarendrareddy/dairy-farm-management.git"
+  },
+  "keywords": [
+    "dairy-farm",
+    "dairy-management-system",
+    "milk-farm",
+    "agriculture",
+    "farmer-management",
+    "nodejs-backend",
+    "express-api",
+    "mongodb-database",
+    "restful-api",
+    "rural-tech"
+  ],
+  "author": "Muli Surya Narendra Reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suryanarendrareddy/dairy-farm-management/issues"
+  },
+  "homepage": "https://github.com/suryanarendrareddy/dairy-farm-management#readme"
+}
